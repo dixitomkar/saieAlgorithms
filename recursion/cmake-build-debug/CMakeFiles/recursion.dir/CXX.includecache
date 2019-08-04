@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oma/CLionProjects/recursion/cmake-build-debug/MergeSort.cpp
+MergeSort.h
+/Users/oma/CLionProjects/recursion/cmake-build-debug/MergeSort.h
+iostream
+-
+array
+-
+
+/Users/oma/CLionProjects/recursion/cmake-build-debug/MergeSort.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oma/CLionProjects/Stacks/stack2arr.cpp
+iostream
+-
+
+/Users/oma/CLionProjects/Stacks/stackusingarr.cpp
+stackusingarr.h
+/Users/oma/CLionProjects/Stacks/stackusingarr.h
+
+/Users/oma/CLionProjects/Stacks/stackusingarr.h
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/ruby/lib CMakeFiles/recursion.dir/main.cpp.o CMakeFiles/recursion.dir/Reverse.cpp.o CMakeFiles/recursion.dir/Palindrome.cpp.o CMakeFiles/recursion.dir/MergeSort.cpp.o  -o recursion 
